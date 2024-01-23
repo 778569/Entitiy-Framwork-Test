@@ -150,7 +150,7 @@ Enable-Migrations
 Add-Migration InitialCreate
 Update-Database
 ```
-# Get , Create, Update, Delete
+# Get , Create, Update, Delete , Entity Framework
 
 ```
 
